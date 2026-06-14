@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Kacper</h1>
-<h3 align="center">💡 Automation & Web Development Enthusiast</h3>
+<h3 align="center">💡 Java & Rust Automation Enthusiast</h3>
 
 ---
 
