@@ -3,100 +3,82 @@
 </h1>
 
 <h3 align="center">
-  🚀 Full-Stack Developer | TypeScript • React • Next.js • Automation
+  Full-Stack Developer • TypeScript • React • Next.js • Automation
 </h3>
 
 <p align="center">
-  Building modern web applications, developer tools and smart automation solutions.
+  I build modern web applications, automation tools and scalable digital products.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kkrpro&style=for-the-badge"/>
+  <a href="mailto:kkrpro.dev@gmail.com">
+    Contact Me
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-I'm a developer focused on building **modern web applications, automation systems and scalable solutions**.
+I'm a developer focused on creating **fast, reliable and user-friendly applications**.
 
-- ⚡ Building fast and responsive web apps with **React & Next.js**
-- 🧠 Creating automation tools and smart workflows
-- 🌐 Developing full-stack applications with modern technologies
-- 🔥 Interested in clean architecture, performance and developer experience
-- 🚀 Always learning and improving my engineering skills
+My main focus is the modern web ecosystem:
 
-📫 Contact: **kkrpro.dev@gmail.com**
+- ⚡ Building applications with **TypeScript, React and Next.js**
+- 🎨 Creating clean and responsive user interfaces
+- 🔧 Developing automation tools and smart workflows
+- 🏗 Designing scalable application architectures
+- 🚀 Turning ideas into real-world products
 
 ---
 
-## 🛠 Currently Working On
+## 🚀 What I'm Building
 
 ### 🌐 Discord Server Configuration Platform
 
-A web-based platform that helps users configure and manage Discord servers easier.
+A modern web platform designed to simplify Discord server management.
 
-**Features:**
-- Modern dashboard interface
-- Automated server configuration
-- User-friendly workflows
-- Scalable backend architecture
-
-**Technologies:**
-- TypeScript
-- React
-- Next.js
-- Node.js
+**Focus:**
+- Intuitive dashboard experience
+- Automation workflows
+- Modern UI/UX
+- Scalable architecture
 - API integrations
+
+**Stack:**
+
+`TypeScript` `React` `Next.js` `Node.js`
 
 ---
 
-## 💻 Tech Stack
+## 🛠 Tech Stack
 
 ### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,html,css,tailwind,vite&perline=8"/>
+<img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,tailwind,html,css,vite&perline=8"/>
 </p>
 
-### Backend & Tools
+### Backend & Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,java,rust,python,postgres,mongodb,docker,git,github,linux&perline=10"/>
+<img src="https://skillicons.dev/icons?i=nodejs,java,rust,python,postgres,mongodb,docker,linux,git,github&perline=10"/>
 </p>
 
-### Development Environment
+### Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=idea,vscode,githubactions,npm,pnpm&perline=8"/>
+<img src="https://skillicons.dev/icons?i=vscode,idea,npm,pnpm,githubactions&perline=8"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=oxsus&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxsus&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🚀 Development Philosophy
+## 🧠 Engineering Principles
 
 ```typescript
-const developer = {
-  name: "Kacper",
-  focus: [
-    "Modern Web Applications",
-    "Automation",
-    "Developer Experience"
-  ],
-  mainStack: [
-    "TypeScript",
-    "React",
-    "Next.js"
-  ],
-  mindset: "Build. Improve. Automate."
+const mindset = {
+  code: "Clean and maintainable",
+  products: "User focused",
+  development: "Continuous improvement",
+  automation: "Work smarter, not harder"
 };
