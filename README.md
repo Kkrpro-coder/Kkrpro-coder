@@ -1,16 +1,31 @@
-<h1 align="center">Hi there 👋, I'm Kacper</h1>
-<h3 align="center">💡 Java & Rust Automation Enthusiast</h3>
+<h1 align="center">
+  Hi 👋, I'm Kacper
+</h1>
 
----
+<h3 align="center">
+  🚀 Java & Rust Developer | Automation Engineer | Building Smart Tools
+</h3>
 
-### 🔧 About Me
-- 💻 Passionate about **automation** and smart solutions  
-- 🌐 Currently building **a web-based Discord server configuration tool**  
-- 📬 Reach me at: **kkrpro.dev@gmail.com**  
-
----
-
-### 🚀 My Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,python,git,github,java,typescript,react,nextjs,javascript,idea,github" alt="Tech Stack"/>
+  <a href="https://github.com/kkrpro">
+    <img src="https://img.shields.io/github/followers/kkrpro?label=Followers&style=for-the-badge&logo=github"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=kkrpro&style=for-the-badge"/>
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+```rust
+let developer = Developer {
+    name: "Kacper",
+    languages: vec![
+        "Rust",
+        "Java",
+        "TypeScript",
+        "Python"
+    ],
+    focus: "Automation & Developer Tools",
+    currently_building: "Discord Server Configuration Platform",
+};
