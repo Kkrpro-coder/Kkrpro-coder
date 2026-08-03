@@ -12,5 +12,5 @@
 
 ### 🚀 My Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,python,git,github,java,typescript,react,nextjs" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=rust,python,git,github,java,typescript,react,nextjs,javascript,idea" alt="Tech Stack"/>
 </p>
