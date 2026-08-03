@@ -28,7 +28,7 @@ I work across the entire development process:
 - 🖥 Self-hosted infrastructure and deployments
 - 🤖 Automation and developer tooling
 
-I enjoy creating complete solutions — from architecture and code to production deployment.
+I enjoy creating complete solutions - from architecture and code to production deployment.
 
 ---
 
@@ -93,9 +93,9 @@ I manage my own hosting environment and work with:
 
 Working with:
 
-- **MySQL** — relational database design and application data management
-- **PostgreSQL** — scalable relational systems and advanced queries
-- **MongoDB** — flexible document-based data storage
+- **MySQL** - relational database design and application data management
+- **PostgreSQL** - scalable relational systems and advanced queries
+- **MongoDB** - flexible document-based data storage
 
 ---
 
