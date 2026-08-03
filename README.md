@@ -3,11 +3,11 @@
 </h1>
 
 <h3 align="center">
-  Full-Stack Developer • TypeScript • React • Next.js • Automation • Infrastructure
+  Full-Stack Developer • TypeScript • React • Next.js • Backend • Infrastructure
 </h3>
 
 <p align="center">
-  Building modern web applications, automation systems and self-hosted solutions.
+  Building modern applications, automation systems and self-hosted solutions.
 </p>
 
 <p align="center">
@@ -18,17 +18,17 @@
 
 ## 🧑‍💻 About Me
 
-I'm a developer focused on creating **modern applications, automation tools and reliable infrastructure**.
+I'm a Full-Stack Developer focused on building **scalable applications, automation tools and reliable systems**.
 
-My work combines:
+I work across the entire development process:
 
 - ⚡ Modern frontend development with **TypeScript, React and Next.js**
-- 🏗 Full-stack application development
-- 🤖 Automation and custom tooling
-- 🖥 Self-hosted services and infrastructure
-- 🔧 Deployment, maintenance and optimization
+- ⚙️ Backend development with **Node.js, Java and Rust**
+- 🗄 Database design and optimization
+- 🖥 Self-hosted infrastructure and deployments
+- 🤖 Automation and developer tooling
 
-I enjoy building complete solutions — from the idea and code to deployment and production.
+I enjoy creating complete solutions — from architecture and code to production deployment.
 
 ---
 
@@ -36,15 +36,15 @@ I enjoy building complete solutions — from the idea and code to deployment and
 
 ### 🌐 Discord Server Configuration Platform
 
-A web-based platform that simplifies Discord server management through automation and a modern dashboard.
+A web-based platform designed to simplify Discord server management through automation and a modern dashboard.
 
 **Focus:**
 
-- Clean user experience
+- Modern UI/UX
 - Automated workflows
-- Scalable backend
 - API integrations
-- Production deployment
+- Scalable backend architecture
+- Production-ready deployment
 
 **Stack:**
 
@@ -54,16 +54,16 @@ A web-based platform that simplifies Discord server management through automatio
 
 ## 🖥 Infrastructure & Hosting
 
-I also work with my own hosting environment, managing:
+I manage my own hosting environment and work with:
 
-- 🚀 Application deployments
+- 🚀 Application deployment
 - 🌐 Web services
 - 🔒 Server configuration
+- 🐳 Containerized applications
 - ⚙️ Automation workflows
 - 📦 Self-hosted solutions
-- 🐳 Containerized applications
 
-**Tools & Technologies:**
+**Infrastructure:**
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github,githubactions&perline=8"/>
@@ -73,51 +73,59 @@ I also work with my own hosting environment, managing:
 
 ## 🛠 Tech Stack
 
-### 🌐 Frontend & Web
+### 🌐 Frontend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,tailwind,html,css,vite&perline=8"/>
 </p>
 
-### ⚙️ Backend & Programming Languages
+### ⚙️ Backend & Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=rust,java,nodejs,python&perline=8"/>
+<img src="https://skillicons.dev/icons?i=nodejs,java,rust,python&perline=8"/>
 </p>
 
-### 🗄 Databases & Tools
+### 🗄 Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,linux,git,github,vscode,idea,npm,pnpm&perline=8"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis&perline=8"/>
 </p>
+
+Working with:
+
+- **MySQL** — relational database design and application data management
+- **PostgreSQL** — scalable relational systems and advanced queries
+- **MongoDB** — flexible document-based data storage
 
 ---
 
-## 🧠 Engineering Approach
+## 🧠 Engineering Mindset
 
 ```typescript
 const developer = {
-  builds: [
-    "Web Applications",
-    "Automation Systems",
-    "Self-hosted Services"
+  frontend: [
+    "TypeScript",
+    "React",
+    "Next.js"
   ],
 
-  stack: {
-    frontend: [
-      "TypeScript",
-      "React",
-      "Next.js"
-    ],
+  backend: [
+    "Node.js",
+    "Java",
+    "Rust",
+    "Python"
+  ],
 
-    backend: [
-      "Rust",
-      "Java",
-      "Node.js",
-      "Python"
-    ]
-  },
+  databases: [
+    "MySQL",
+    "PostgreSQL",
+    "MongoDB"
+  ],
 
-  philosophy:
-    "Build reliable systems, automate repetitive work."
+  focus: [
+    "Performance",
+    "Clean Architecture",
+    "Automation",
+    "Reliability"
+  ]
 };
